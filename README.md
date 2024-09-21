@@ -7,4 +7,7 @@
     - Not possible due to format of data provided by Oryx, would need to be collecting with every update
     - Would need to correlate with this sheet: https://docs.google.com/spreadsheets/d/1bngHbR0YPS7XH1oSA1VxoL4R34z60SJcR3NxguZM9GI/edit?gid=0#gid=0
     - We could also pull dailies from web archive: https://web.archive.org/web/20240104001559/https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html
+    - Web archive seems like best option for this
+        - Would need to extract and export counts for each day, write and store them, then utilize them as needed. 
+        - Does the current scraper also work on web-archive content? Yes! Seems to work well, so we just need to loop through dailies. Write to csv in an archive folder, and then we can compile dataset from there
 - How do equivalent systems perform when used by UKR/RUS?
