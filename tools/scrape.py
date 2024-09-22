@@ -114,6 +114,6 @@ def create_data(start_date: str, end_date: str, pause_time: int = 15):
                 logging.info(f"No data found for {country} on {scrape_date}")
 
 if __name__ == "__main__":
-    start_date = "2024-01-04"
-    end_date = "2024-01-04"
+    start_date = "2022-02-24"
+    end_date = date.today().strftime('%Y-%m-%d')
     create_data(start_date, end_date)

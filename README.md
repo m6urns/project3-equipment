@@ -10,4 +10,7 @@
     - Web archive seems like best option for this
         - Would need to extract and export counts for each day, write and store them, then utilize them as needed. 
         - Does the current scraper also work on web-archive content? Yes! Seems to work well, so we just need to loop through dailies. Write to csv in an archive folder, and then we can compile dataset from there
+    - Compile dailies into daily totals by type, for visualization
 - How do equivalent systems perform when used by UKR/RUS?
+- Compare tank survivability, by tank type. Example: Are RUs T-34 more vulnerable than UKRs T-34?
+- Overlay major battles/offensives to overall losses
