@@ -14,3 +14,8 @@
 - How do equivalent systems perform when used by UKR/RUS?
 - Compare tank survivability, by tank type. Example: Are RUs T-34 more vulnerable than UKRs T-34?
 - Overlay major battles/offensives to overall losses
+- Analyze survivability of primary MBT, Abraham, Chieftain, etc verses RU T-80
+
+![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/all_types_over_time.png?raw=true "All Types") 
+
+![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/T72-B_losses.png?raw=true "All Types")
