@@ -21,3 +21,5 @@
 ![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/T-72B_losses.png?raw=true "T72-B Losses")
 
 ![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/BMP-2(K)_losses.png?raw=true  "BMP-2(K)")
+
+![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/BMP-1(P)_losses.png?raw=true  "BMP-1(P)")
