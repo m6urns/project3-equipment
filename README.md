@@ -18,4 +18,4 @@
 
 ![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/all_types_over_time.png?raw=true "All Types") 
 
-![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/T72-B_losses.png?raw=true "All Types")
+![alt text](https://github.com/m6urns/project3-equipment/blob/matt/plots/T-72B_losses.png?raw=true "T72-B Losses")
