@@ -61,6 +61,6 @@ def create_daily_totals(input_dir, output_dir):
     
 
 if __name__ == "__main__":
-    input_directory = 'outputfiles/daily'
-    output_directory = 'outputfiles/'
+    input_directory = 'data/daily'
+    output_directory = 'data/'
     create_daily_totals(input_directory, output_directory)
